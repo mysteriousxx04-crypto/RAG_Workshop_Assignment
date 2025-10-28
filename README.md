@@ -6,7 +6,7 @@ Environmental Science and Climate Studies
 ## What I changed:
 - **Documents:** Added 5 PDFs related to environmental science and climate.
 - **Chunking:** Changed chunk_size to 1200 and chunk_overlap to 200 for better paragraph context.
-- **Retrieval:** Used k=5, fetch_k=10, lambda_mult=0.5 — improved precision in answers.
+- **Retrieval:** Used k=7, fetch_k=6, lambda_mult=0.8 — improved precision in answers.
 
 ## How to run:
 1. Install requirements: `pip install -r requirements.txt`
